@@ -14,6 +14,5 @@ The project has 2 parts. The first part is dealing with the historical stock val
 Deliverables
 The code and results can be found: https://github.com/Bryan-bobo/TDI-Capstone.git
 
-1.	The first part with machine learning and prediction: <Stock data loading and prediction>
-2.	The second part with NLP and resulting word frequency dictionary: <Parse Website News Title>
-![image](https://github.com/Bryan-bobo/TDI-Capstone/assets/74165490/7f2ef1e7-7823-4edb-96ef-c3b16b2a0165)
+1.	The first part with machine learning and prediction: Stock data loading and prediction
+2.	The second part with NLP and resulting word frequency dictionary: Parse Website News Title
